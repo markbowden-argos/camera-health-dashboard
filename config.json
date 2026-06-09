@@ -1,0 +1,16 @@
+{
+  "name": "Camera Health",
+  "supportEmail": "mark.bowden@argosconnected.com",
+  "version": "1.0.0",
+  "items": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/markbowden-argos/camera-health-dashboard@main/cameraHealth.html",
+      "path": "ActivityLink/",
+      "menuName": {
+        "en": "Camera Health"
+      },
+      "icon": "https://cdn.jsdelivr.net/gh/markbowden-argos/camera-health-dashboard@main/icon.svg"
+    }
+  ],
+  "isSigned": false
+}
